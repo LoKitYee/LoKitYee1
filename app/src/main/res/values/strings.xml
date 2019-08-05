@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lo Kit Yee</string>
+    <string name="to_evaluate_entry_requirement_into_diploma_in_computer_science_programme">To evaluate entry requirement into Diploma in Computer Science programme</string>
+    <string name="entry_qualification">Entry Qualification</string>
+    <string name="spm">SPM</string>
+    <string name="at_least_5_grade_c_in_the_relevant_subjects">At least 5 grade C in the relevant subjects</string>
+    <string name="english_language">English language</string>
+    <string name="welcome_to_taruc">Welcome to TARUC</string>
+    <string name="evaluate">Evaluate</string>
+    <string name="alphabet">alphabet</string>
+    <string name="evaluate_entry_requirement_for_application_into_diploma_in_computer_science">Evaluate entry requirement for application into Diploma in Computer Science</string>
+    <string name="button">Button</string>
+    <string name="evaluate_uec">Evaluate</string>
+    <string name="evaluate_o">Evaluate</string>
+    <string name="evaluate_spm">Evaluate</string>
+    <string name="toast_message">You are not qualify to take the programme</string>
+
+
+</resources>
